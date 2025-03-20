@@ -9,6 +9,11 @@ body {
     color: #26568E;
   }
 
+.macros-text {
+    font-size: 18px;
+    color: #243646;
+  }
+
 .main-heading {
   background-color: #26568E;
   text-align: center;
